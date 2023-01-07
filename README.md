@@ -31,6 +31,7 @@ You may refer to the excel file "quotation2.xls" to understand how to work
 INI explain 
 
 [General]
+
 #Run path = This is the directory path putting the excel file inside
 RunPath=c:\temp1
 
