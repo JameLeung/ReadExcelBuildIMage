@@ -14,8 +14,11 @@ b. It require to download the library below before access.
 you may need to install those library before proceed
 
 pip install pillow
+
 pip install numpy
+
 pip install xlrd
+
 pip install xlsxwriter
 
 
