@@ -6,7 +6,8 @@ To build the excel file and build the content into the image file inside
 
 	from Idemia Hong Kong
 
-Coding implemented = python3 
+Coding implemented = python3
+
 Platform to used = Any platform (example is used the Windows platform)
 
 	1. This program will only search for the numeric worksheet name (i.e. 0,1,2, and so on) and extract the data below into the image
