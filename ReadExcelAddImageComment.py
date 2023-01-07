@@ -3,7 +3,6 @@
 #	Programmed by Jame Leung
 #	Date: 2023/01/01
 #
-#	from Idemia France
 #
 #
 # 1. This program will only search for the numeric worksheet name (i.e. 0,1,2, and so on) and extract the data below into the image
