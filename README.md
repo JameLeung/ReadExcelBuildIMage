@@ -51,7 +51,8 @@ Any other simple way to run?
 Alterantively, if you do not want to use Python to run. run the executable I compiled using auto-py-to-exe
 
 1. Copy the project folder ReadExcelBuildIMage.exe into c:\temp1
-2. Then run the command c:\temp1\ReadExcelBuildIMage.exe
+2. Copy the ini file into c:\temp as well
+3. Then run the command c:\temp1\ReadExcelBuildIMage.exe
 
 ----------------------------------------------------------
 
