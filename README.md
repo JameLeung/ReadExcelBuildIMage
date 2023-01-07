@@ -4,7 +4,7 @@ To build the excel file and build the content into the image file inside
 	Programmed by Jame Leung
 	Date: 2023/01/01
 
-	from Idemia Hong Kong
+	
 
 Coding implemented = python3
 
