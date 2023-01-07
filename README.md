@@ -59,38 +59,49 @@ INI explain
 [General]
 
 #Run path = This is the directory path putting the excel file inside
+
 RunPath=c:\temp1
 
 #Excel file name. It supports XLSX and XLS format only
+
 ExcelFileName=quotation2.xls
 
 #The soure image file directory. Please ensure filename has to match with the column AY of the quotation. Case sensitive
+
 ImageSourcePath=c:\temp1\ImageSource
 
 #The output directory to get the image
+
 ImageResultPath=c:\temp1\Result
 
 #to control if the descrption has to draw frame (May choose True,False,Yes,No to control, case insensitive)
+
 DrawFrame=yes
 
 #the thickness of the frame
+
 FrameWidth=1
 
 #X location of the frame to be printed
 #(Default: Left=160)
+
 Left=160
 
 #Y location of the frame to be printed
 #(Default: Top=800)
+
 Top=800
 
 #to contol in the worksheet when the data has to be captured
+
 KeywordStartCapture=ITEM
 
 #to contol in the worksheet when the data stopped to capture 
+
 KeywordStopCapture=Term
 
 #to control if the debug messages has to be displayed (May choose True,False,Yes,No to control, case insensitive)
+
 Debug=yes
 
 ----------------------------------------------------------
